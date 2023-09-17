@@ -4,7 +4,7 @@ package no.hvl.dat100uke35;
 import java.util.Scanner;
 
 
-public class OPPG01 {
+public class OPPG1 {
 
 	public static void main(String[] args) {
 		
